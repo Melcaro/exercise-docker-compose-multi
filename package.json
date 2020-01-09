@@ -1,0 +1,24 @@
+{
+  "name": "exercise-docker-compose-multi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Melcaro/exercise-docker-compose-multi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Melcaro/exercise-docker-compose-multi/issues"
+  },
+  "homepage": "https://github.com/Melcaro/exercise-docker-compose-multi#readme"
+}
